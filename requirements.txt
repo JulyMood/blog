@@ -1,0 +1,15 @@
+streamlit==1.32.2
+streamlit-cookies-manager==0.2.0
+sqlalchemy==2.0.25
+streamlit-modal==0.1.2
+streamlit-timeline==0.0.2
+langchain==0.1.12
+langchain_openai==0.0.5
+langchainhub==0.1.14
+openai==1.11.1
+sentence-transformers==2.3.1
+PyYAML
+chromadb==0.4.22
+beautifulsoup4==4.12.3
+redis==4.3.3
+bcrypt==4.1.2

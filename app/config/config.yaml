@@ -1,0 +1,12 @@
+sqlite:
+  url: sqlite:///.sqlite/blog.db
+redis:
+  host: localhost
+  port: 6379
+  db: 0
+  password:
+  socket_timeout: 1
+chroma:
+  url: .chromadb
+moonshot:
+  api_key: *
